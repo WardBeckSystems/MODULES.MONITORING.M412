@@ -57,7 +57,7 @@ Operational amplifier design with FET AGC.
 
 ```json
 {
- "file": "Modules/MONITORING/M412/PHOTOS/1969 - M412 - wbsps - promo - m412 osc - front.jpg",
+ "file": "Modules/MONITORING/M412/MANUALS/1969 - M412 - wbsps - promo - m412 osc - front.jpg",
  "sha256": "f87b6f3558e78ffa2c2cc0f72b0bc5a9b4139b595ea08bc699e6dc2cf2bb687c",
  "kind": "module",
  "models": [

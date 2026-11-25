@@ -55,7 +55,7 @@ Orerational amplifier clesiJn wih FET AGC
 
 ```json
 {
- "file": "Modules/MONITORING/M412/PHOTOS/1969 - M412 - wbsps - module - m412 osc - front.jpg",
+ "file": "Modules/MONITORING/M412/MANUALS/1969 - M412 - wbsps - module - m412 osc - front.jpg",
  "sha256": "d4a91c5dfd81edadc311877500fc8c759313f9332ad6493e0e0a4ff54675893b",
  "kind": "module",
  "models": [

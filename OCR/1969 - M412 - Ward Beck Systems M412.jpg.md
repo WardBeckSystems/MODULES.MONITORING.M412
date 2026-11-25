@@ -57,7 +57,7 @@ Operational amplifier design with FET AGC.
 
 ```json
 {
- "file": "Modules/MONITORING/M412/PHOTOS/1969 - M412 - Ward Beck Systems M412.jpg",
+ "file": "Modules/MONITORING/M412/MANUALS/1969 - M412 - Ward Beck Systems M412.jpg",
  "sha256": "3b79af0ae0b68683ecd85493bbfb52f450dfe4d1b87cc001e0d9428487f4a7fc",
  "kind": "module",
  "models": [
