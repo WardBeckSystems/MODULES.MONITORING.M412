@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Closed boxes:** 25; named: Optiomal LINE SELECToRS; Jackfield 100 JacKS; Out SEL; 4471 HaSTER HOOULES; optional PaTcHABLE ANCILLARY Lcnc; BL ANK; AdERS; TADERS; SPACE For Motion
 - **Words (OCR):** 34 in 27 lines: Optiomal · Jackfield · 472 · EQUALIIERS · LINE SELECToRS · 100 JacKS · optional PaTcHABLE · HaSTER · 4471 · ANCILLARY · Out HOOULES · Lcnc
 
-Every curve, box, word and wire group: [19xx - M412 - DOC - STEREO L SERIES - P009 - B77012-04-011 L (traced).json](../MECHANICAL/19xx%20-%20M412%20-%20DOC%20-%20STEREO%20L%20SERIES%20-%20P009%20-%20B77012-04-011%20L%20(traced).json) (the CAD file: `19xx - M412 - DOC - STEREO L SERIES - P009 - B77012-04-011 L (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M412 - DOC - STEREO L SERIES - P009 - B77012-04-011 L (traced).json](../MECHANICAL/19xx%20-%20M412%20-%20DOC%20-%20STEREO%20L%20SERIES%20-%20P009%20-%20B77012-04-011%20L%20%28traced%29.json) (the CAD file: `19xx - M412 - DOC - STEREO L SERIES - P009 - B77012-04-011 L (traced).dxf`).
 
 ## Full text
 

@@ -37,7 +37,7 @@ Wiki page: [M412](../../../../PAGES/M412.md)
 - **Words (OCR):** 61 in 46 lines: 6.225 · 2.250 · '187 · 5.(88 · 3.562 · 70 · 312 · 40 · NOTES · Holes · 8 - 32 UNC ThD; c'SK-82" To.250 Dia · opposite SIDE
 - **Title block:** (258, 4)–(410, 63) mm: LeS WaRO · BECK · SYSTEMS · D P.s · ESCUTCHEON · 23-FEB.72 · DATE · (m412 A ) · 41 2 - 03- 003 · scalE
 
-Every curve, box, word and wire group: [1972 - 412-03-003 - ESCUTCHEON (M412 A) - DRN DPS - ISS 3 (traced).json](../MECHANICAL/1972%20-%20412-03-003%20-%20ESCUTCHEON%20(M412%20A)%20-%20DRN%20DPS%20-%20ISS%203%20(traced).json) (the CAD file: `1972 - 412-03-003 - ESCUTCHEON (M412 A) - DRN DPS - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1972 - 412-03-003 - ESCUTCHEON (M412 A) - DRN DPS - ISS 3 (traced).json](../MECHANICAL/1972%20-%20412-03-003%20-%20ESCUTCHEON%20%28M412%20A%29%20-%20DRN%20DPS%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1972 - 412-03-003 - ESCUTCHEON (M412 A) - DRN DPS - ISS 3 (traced).dxf`).
 
 ## Full text
 

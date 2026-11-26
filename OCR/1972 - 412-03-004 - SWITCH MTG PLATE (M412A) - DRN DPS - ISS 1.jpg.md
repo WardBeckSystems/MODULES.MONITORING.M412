@@ -39,7 +39,7 @@ Mechanical drawing of an M412A switch mounting plate with hole details, title bl
 - **Words (OCR):** 69 in 50 lines: 5.75 · 4.42 · 45 · 2 . 86 · Lel · Klo · 312 · 350 · 700 · HeL E · DEIALS · 093 DIA
 - **Title block:** (263, 21)–(382, 60) mm: Mard BECK SYSTENIS LID · DRN · swITCH MTG PLATE · DATE · 23.FEB. 72 · (m 41,2
 
-Every curve, box, word and wire group: [1972 - 412-03-004 - SWITCH MTG PLATE (M412A) - DRN DPS - ISS 1 (traced).json](../MECHANICAL/1972%20-%20412-03-004%20-%20SWITCH%20MTG%20PLATE%20(M412A)%20-%20DRN%20DPS%20-%20ISS%201%20(traced).json) (the CAD file: `1972 - 412-03-004 - SWITCH MTG PLATE (M412A) - DRN DPS - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1972 - 412-03-004 - SWITCH MTG PLATE (M412A) - DRN DPS - ISS 1 (traced).json](../MECHANICAL/1972%20-%20412-03-004%20-%20SWITCH%20MTG%20PLATE%20%28M412A%29%20-%20DRN%20DPS%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1972 - 412-03-004 - SWITCH MTG PLATE (M412A) - DRN DPS - ISS 1 (traced).dxf`).
 
 ## Full text
 

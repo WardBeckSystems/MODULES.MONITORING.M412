@@ -37,7 +37,7 @@ Mechanical drawing of an escutcheon marked OBSOLETE, redrawn on C size, title bl
 - **Words (OCR):** 56 in 39 lines: 187 · 6.250 · 106 · 4.50 · 1.62 · HOLE · 390 DIA, · 500 DIA: · CBORE AT .87 · DIA: X · 412 DEER · 79
 - **Title block:** (181, 26)–(374, 56) mm: 325 CRIT · BECK SHSTEMS · DRN C,S,OCDNNELL VAPOUR BL4ST ToD · DATE; Nov -69 · SURFACE · CHKD · ESCUTCHEON
 
-Every curve, box, word and wire group: [19xx - 412-03-001 - ESCUTCHEON - ISS 8 (traced).json](../MECHANICAL/19xx%20-%20412-03-001%20-%20ESCUTCHEON%20-%20ISS%208%20(traced).json) (the CAD file: `19xx - 412-03-001 - ESCUTCHEON - ISS 8 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 412-03-001 - ESCUTCHEON - ISS 8 (traced).json](../MECHANICAL/19xx%20-%20412-03-001%20-%20ESCUTCHEON%20-%20ISS%208%20%28traced%29.json) (the CAD file: `19xx - 412-03-001 - ESCUTCHEON - ISS 8 (traced).dxf`).
 
 ## Full text
 

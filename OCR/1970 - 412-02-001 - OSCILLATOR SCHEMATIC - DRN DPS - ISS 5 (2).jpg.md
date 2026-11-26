@@ -35,7 +35,7 @@ Wiki page: [M412](../../../../PAGES/M412.md)
 - **Words (OCR):** 2 in 2 lines: ade/ · Je
 - **Wiring (first pass):** 70 connected wire groups from 567 runs; labelled ends: 33 mm → ade/; 19 mm → ade/; 14 mm → ade/; 12 mm → ade/; 12 mm → ade/
 
-Every curve, box, word and wire group: [1970 - 412-02-001 - OSCILLATOR SCHEMATIC - DRN DPS - ISS 5 (2) (traced).json](../SCHEMATICS/1970%20-%20412-02-001%20-%20OSCILLATOR%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%205%20(2)%20(traced).json) (the CAD file: `1970 - 412-02-001 - OSCILLATOR SCHEMATIC - DRN DPS - ISS 5 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 412-02-001 - OSCILLATOR SCHEMATIC - DRN DPS - ISS 5 (2) (traced).json](../SCHEMATICS/1970%20-%20412-02-001%20-%20OSCILLATOR%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%205%20%282%29%20%28traced%29.json) (the CAD file: `1970 - 412-02-001 - OSCILLATOR SCHEMATIC - DRN DPS - ISS 5 (2) (traced).dxf`).
 
 ## Full text
 

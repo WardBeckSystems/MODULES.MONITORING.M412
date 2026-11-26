@@ -36,7 +36,7 @@ Outline drawing of the M412 oscillator package with panel cutout.
 - **Closed boxes:** 4
 - **Words (OCR):** 40 in 31 lines: FANEL FINISH · ANODIZE With Photo ETCHED · '250 · CHARACTERS · 5.0 · CN · LAMP · PANEL cutcut · 4-40 THD · ThK RC CONNECTOR · PIN / · PIN2Z
 
-Every curve, box, word and wire group: [1970 - 412-04-001 - OSCILLATOR OUTLINE DRAWING - ISS 1 (traced).json](../MECHANICAL/1970%20-%20412-04-001%20-%20OSCILLATOR%20OUTLINE%20DRAWING%20-%20ISS%201%20(traced).json) (the CAD file: `1970 - 412-04-001 - OSCILLATOR OUTLINE DRAWING - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 412-04-001 - OSCILLATOR OUTLINE DRAWING - ISS 1 (traced).json](../MECHANICAL/1970%20-%20412-04-001%20-%20OSCILLATOR%20OUTLINE%20DRAWING%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1970 - 412-04-001 - OSCILLATOR OUTLINE DRAWING - ISS 1 (traced).dxf`).
 
 ## Full text
 

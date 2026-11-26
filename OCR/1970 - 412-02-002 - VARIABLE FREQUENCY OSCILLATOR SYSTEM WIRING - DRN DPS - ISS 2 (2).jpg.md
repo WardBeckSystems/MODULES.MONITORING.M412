@@ -40,7 +40,7 @@ Wiki page: [M412](../../../../PAGES/M412.md)
 - **Title block:** (181, 38)–(406, 69) mm: FinISH · WARO · BECK · SYSTEMS LTd · DRN · P s · DATE 3.FEB 1970 · M412 · CHKDF · D2/. · MATERIAL · VARIABLE · FREQUENc ( · OSCIlLAToR
 - **Wiring (first pass):** 29 connected wire groups from 233 runs, 1 dotted junctions; labelled ends: 478 mm → 16, output, SH; 385 mm → ISS, TOLS; 224 mm → 18, SYSTEM, FRAME WoRk; 163 mm → 13, OUTPUT # 2, 600 n; 163 mm → OUTPUT # |, 150 n, 12
 
-Every curve, box, word and wire group: [1970 - 412-02-002 - VARIABLE FREQUENCY OSCILLATOR SYSTEM WIRING - DRN DPS - ISS 2 (2) (traced).json](../SCHEMATICS/1970%20-%20412-02-002%20-%20VARIABLE%20FREQUENCY%20OSCILLATOR%20SYSTEM%20WIRING%20-%20DRN%20DPS%20-%20ISS%202%20(2)%20(traced).json) (the CAD file: `1970 - 412-02-002 - VARIABLE FREQUENCY OSCILLATOR SYSTEM WIRING - DRN DPS - ISS 2 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 412-02-002 - VARIABLE FREQUENCY OSCILLATOR SYSTEM WIRING - DRN DPS - ISS 2 (2) (traced).json](../SCHEMATICS/1970%20-%20412-02-002%20-%20VARIABLE%20FREQUENCY%20OSCILLATOR%20SYSTEM%20WIRING%20-%20DRN%20DPS%20-%20ISS%202%20%282%29%20%28traced%29.json) (the CAD file: `1970 - 412-02-002 - VARIABLE FREQUENCY OSCILLATOR SYSTEM WIRING - DRN DPS - ISS 2 (2) (traced).dxf`).
 
 ## Full text
 

@@ -26,6 +26,18 @@ Module layout of the M412 oscillator with title block at bottom right.
 
 - **1970** (month): `FEB 1970` — …3w - Ta ~ReI ~eL EEEE- Swi-C 0Qe02 255 0# ~Z] [ M 3 P clein FEB 1970 M 412 osei4TOE Mocule Layout…
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 305 mm, 1753 × 1240 px traced (0.246 mm/px)
+- **Ink extent:** 0–432 mm across, 0–305 mm up
+- **Outlines:** line 2,370 rings, 16,892 straight (19,210 mm) / 4,405 curved (4,698 mm); text 107 rings, 720 straight (648 mm) / 264 curved (290 mm)
+- **Circles and arcs:** 9 circles, 0 arcs; largest r 4.5 @ (238.2, 122.8), r 4.1 @ (210.1, 111.4), r 3.7 @ (294.0, 72.2), r 3.7 @ (307.7, 178.7)
+- **Closed boxes:** 32
+- **Dots (junctions):** 1
+- **Words (OCR):** 14 in 13 lines: SW 2 · 628 · LEAS · IOQE0 · B4 · 225 · C3o · 3 P = · cleiJJ · FeB 1810 · M 412 · oscill4to@
+
+Every curve, box, word and wire group: [1970 - M412 - M412 OSCILLATOR MODULE LAYOUT - DRN DPS (2) (traced).json](../SCHEMATICS/1970%20-%20M412%20-%20M412%20OSCILLATOR%20MODULE%20LAYOUT%20-%20DRN%20DPS%20%282%29%20%28traced%29.json) (the CAD file: `1970 - M412 - M412 OSCILLATOR MODULE LAYOUT - DRN DPS (2) (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 2 words corrected)

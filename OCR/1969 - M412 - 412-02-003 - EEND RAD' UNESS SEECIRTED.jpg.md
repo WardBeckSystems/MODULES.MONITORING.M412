@@ -21,7 +21,7 @@ Wiki page: [M412](../../../../PAGES/M412.md)
 - **Closed boxes:** 14
 - **Wiring (first pass):** 25 connected wire groups from 273 runs
 
-Every curve, box, word and wire group: [1969 - M412 - 412-02-003 - EEND RAD' UNESS SEECIRTED (traced).json](../SCHEMATICS/1969%20-%20M412%20-%20412-02-003%20-%20EEND%20RAD%27%20UNESS%20SEECIRTED%20(traced).json) (the CAD file: `1969 - M412 - 412-02-003 - EEND RAD' UNESS SEECIRTED (traced).dxf`).
+Every curve, box, word and wire group: [1969 - M412 - 412-02-003 - EEND RAD' UNESS SEECIRTED (traced).json](../SCHEMATICS/1969%20-%20M412%20-%20412-02-003%20-%20EEND%20RAD%27%20UNESS%20SEECIRTED%20%28traced%29.json) (the CAD file: `1969 - M412 - 412-02-003 - EEND RAD' UNESS SEECIRTED (traced).dxf`).
 
 ## Full text
 

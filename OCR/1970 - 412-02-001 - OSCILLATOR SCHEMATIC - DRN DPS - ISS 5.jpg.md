@@ -34,7 +34,7 @@ Wiki page: [M412](../../../../PAGES/M412.md)
 - **Dots (junctions):** 6
 - **Wiring (first pass):** 152 connected wire groups from 944 runs, 6 dotted junctions
 
-Every curve, box, word and wire group: [1970 - 412-02-001 - OSCILLATOR SCHEMATIC - DRN DPS - ISS 5 (traced).json](../SCHEMATICS/1970%20-%20412-02-001%20-%20OSCILLATOR%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%205%20(traced).json) (the CAD file: `1970 - 412-02-001 - OSCILLATOR SCHEMATIC - DRN DPS - ISS 5 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 412-02-001 - OSCILLATOR SCHEMATIC - DRN DPS - ISS 5 (traced).json](../SCHEMATICS/1970%20-%20412-02-001%20-%20OSCILLATOR%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%205%20%28traced%29.json) (the CAD file: `1970 - 412-02-001 - OSCILLATOR SCHEMATIC - DRN DPS - ISS 5 (traced).dxf`).
 
 ## Full text
 
