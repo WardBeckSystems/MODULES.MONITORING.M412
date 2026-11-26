@@ -1,0 +1,81 @@
+{
+ "drawing": "Modules/MONITORING/M412/MECHANICAL/1970 - 412-04-001 - OSCILLATOR OUTLINE DRAWING - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/5eddc60535f20fe0.svg",
+ "sheet": {
+  "number": "A 412-04-001",
+  "title": "M412 OSCILLATOR / OUTLINE DRAWING",
+  "dtype": "04",
+  "type": "layout",
+  "size": "A",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1753, 1240],
+  "mm": [279.4, 197.6],
+  "mm_per_px": 0.15938
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 279.4, 197.6],
+ "outlines": {
+  "line": {"rings": 786, "straight": {"n": 7853, "mm": 7312.6}, "curved": {"n": 1160, "mm": 1110.0}},
+  "text": {"rings": 280, "straight": {"n": 2100, "mm": 1345.6}, "curved": {"n": 634, "mm": 580.4}}
+ },
+ "circles": [
+  {"c": [105.4, 147.1], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [136.8, 151.2], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [144.7, 146.8], "r": 1.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [136.3, 101.1], "r": 1.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [238.0, 41.6], "r": 0.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [201.0, 107.9, 208.6, 114.8], "w": 7.7, "h": 6.9, "from": "ring"},
+  {"mm": [207.0, 105.4, 211.8, 108.1], "w": 4.7, "h": 2.7, "from": "ring"},
+  {"mm": [78.3, 46.3, 142.3, 103.2], "w": 64.1, "h": 56.8, "from": "ring"},
+  {"mm": [196.4, 46.1, 212.8, 102.6], "w": 16.5, "h": 56.6, "from": "ring"}
+ ],
+ "text": {
+  "words": 40,
+  "lines": [
+   {"mm": [73.5, 173.4, 90.5, 176.2], "text": "FANEL FINISH"},
+   {"mm": [101.5, 172.9, 139.9, 176.1], "text": "ANODIZE With Photo ETCHED"},
+   {"mm": [203.9, 174.0, 209.4, 176.5], "text": "'250"},
+   {"mm": [101.8, 170.9, 118.6, 173.7], "text": "CHARACTERS"},
+   {"mm": [203.1, 170.2, 207.5, 172.7], "text": "5.0"},
+   {"mm": [154.9, 134.7, 158.7, 136.8], "text": "CN"},
+   {"mm": [144.1, 132.4, 152.1, 134.6], "text": "LAMP"},
+   {"mm": [194.0, 126.9, 215.0, 130.1], "text": "PANEL cutcut"},
+   {"mm": [161.9, 123.5, 175.2, 126.4], "text": "4-40 THD"},
+   {"mm": [223.3, 42.7, 250.9, 45.9], "text": "ThK RC CONNECTOR"},
+   {"mm": [100.4, 38.3, 106.0, 40.7], "text": "PIN /"},
+   {"mm": [113.0, 37.9, 120.7, 40.8], "text": "PIN2Z"},
+   {"mm": [221.5, 37.5, 233.5, 39.9], "text": "ThIs SIDE"},
+   {"mm": [240.8, 40.3, 252.3, 42.8], "text": "PINS CNJ"},
+   {"mm": [106.0, 31.6, 112.2, 34.7], "text": "3.58"},
+   {"mm": [201.6, 31.2, 206.9, 33.7], "text": "150"},
+   {"mm": [106.9, 24.4, 111.9, 29.0], "text": "53"},
+   {"mm": [65.2, 20.1, 74.3, 22.9], "text": "NOTES"},
+   {"mm": [168.5, 18.6, 173.1, 21.1], "text": "DJG"},
+   {"mm": [66.5, 16.9, 86.1, 19.7], "text": "DESIGNED FoR"},
+   {"mm": [87.2, 16.6, 115.1, 19.4], "text": "SIDE By SIDE MTG ON"},
+   {"mm": [115.7, 16.6, 134.2, 19.4], "text": "1.60 CENTRES"},
+   {"mm": [66.9, 13.4, 130.5, 16.7], "text": "Pc MATING CONNECTOR ELCO PTN'00-6007"},
+   {"mm": [131.5, 12.8, 148.9, 15.9], "text": "022 940- 002"},
+   {"mm": [173.7, 14.8, 179.0, 17.3], "text": "1970"},
+   {"mm": [217.1, 13.1, 226.5, 16.3], "text": "M4I2"},
+   {"mm": [228.6, 13.1, 247.4, 16.6], "text": "OSCILLATOR"},
+   {"mm": [66.9, 10.7, 82.2, 13.9], "text": "OR SIMILAR"},
+   {"mm": [184.1, 9.2, 210.1, 12.4], "text": "ALUMINUM PACKAGE"},
+   {"mm": [216.8, 9.6, 245.8, 13.1], "text": "OUTLINE DRAWING"},
+   {"mm": [219.0, 2.4, 235.9, 6.6], "text": "L4l2 04 -"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout A 412-04-001, size A 279 × 198 mm, 1753 × 1240 px traced (0.159 mm/px)",
+  "- **Ink extent:** 0–279 mm across, 0–198 mm up",
+  "- **Outlines:** line 786 rings, 7,853 straight (7,313 mm) / 1,160 curved (1,110 mm); text 280 rings, 2,100 straight (1,346 mm) / 634 curved (580 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 2.8 @ (105.4, 147.1), r 2.3 @ (136.8, 151.2), r 1.1 @ (144.7, 146.8), r 1.1 @ (136.3, 101.1)",
+  "- **Closed boxes:** 4",
+  "- **Words (OCR):** 40 in 31 lines: FANEL FINISH · ANODIZE With Photo ETCHED · '250 · CHARACTERS · 5.0 · CN · LAMP · PANEL cutcut · 4-40 THD · ThK RC CONNECTOR · PIN / · PIN2Z"
+ ]
+}

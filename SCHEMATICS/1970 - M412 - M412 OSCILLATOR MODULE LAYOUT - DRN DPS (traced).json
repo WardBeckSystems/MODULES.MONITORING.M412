@@ -1,0 +1,44 @@
+{
+ "drawing": "Modules/MONITORING/M412/SCHEMATICS/1970 - M412 - M412 OSCILLATOR MODULE LAYOUT - DRN DPS.jpg",
+ "version": 1,
+ "trace": "_traces/1dd39d5006357921.svg",
+ "sheet": {
+  "number": "",
+  "title": "M412 OSCILLATOR / MODULE LAYOUT",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1240, 1753],
+  "mm": [305.4, 431.8],
+  "mm_per_px": 0.24632
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 305.4, 431.8],
+ "outlines": {
+  "line": {"rings": 3211, "straight": {"n": 13613, "mm": 12437.1}, "curved": {"n": 2449, "mm": 2565.7}},
+  "text": {"rings": 96, "straight": {"n": 328, "mm": 245.8}, "curved": {"n": 38, "mm": 40.2}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [202.2, 111.6, 211.1, 114.8], "w": 8.9, "h": 3.3, "from": "ring"}],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [289.4, 384.0, 300.3, 405.6], "text": "J3"},
+   {"mm": [155.7, 254.9, 169.7, 258.8], "text": "00"},
+   {"mm": [135.2, 245.8, 144.8, 249.7], "text": "HiL"},
+   {"mm": [135.2, 217.7, 147.1, 222.1], "text": "HE"},
+   {"mm": [130.8, 212.8, 137.2, 216.7], "text": "6 2"}
+  ]
+ },
+ "dots": [{"c": [140.1, 243.7], "r": 0.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout, size B (assumed) 305 × 432 mm, 1240 × 1753 px traced (0.246 mm/px)",
+  "- **Ink extent:** 0–305 mm across, 0–432 mm up",
+  "- **Outlines:** line 3,211 rings, 13,613 straight (12,437 mm) / 2,449 curved (2,566 mm); text 96 rings, 328 straight (246 mm) / 38 curved (40.2 mm)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 5 in 5 lines: J3 · 00 · HiL · HE · 6 2"
+ ]
+}
