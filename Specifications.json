@@ -1,0 +1,130 @@
+{
+ "module": "M412",
+ "title": "",
+ "source": {
+  "file": "MANUALS/1969 - M412 - 5.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.87,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Select able",
+   "key": "select_able",
+   "text": "2OHZ, 3OHZ, 5OHz, LOOHz 500Hz _ lkHz, SkHz 10kHz 15kHZ, 20kHz",
+   "quantities": [
+    {
+     "value": 500,
+     "unit": "Hz"
+    },
+    {
+     "value": 10,
+     "unit": "kHz"
+    },
+    {
+     "value": 15,
+     "unit": "kHZ"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "Impedance a) b) c) +8dBm 600 ohms direct +8dBm 600 ohms via switch -60dBm 150 ohms via switch",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": -60,
+     "unit": "dBm"
+    },
+    {
+     "value": 150,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Total harmonic distortion",
+   "key": "total_harmonic_distortion",
+   "text": "Less tan 0.2% 20Hz to 20kHz Frequency Accuracy/stability within +5% Amplitude Stability, within +0.2dB for any selected frequency",
+   "quantities": [
+    {
+     "value": 0.2,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 5,
+     "unit": "%"
+    },
+    {
+     "value": 0.2,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "24 to 36 volts dc unregulated 40 ma less than lv rms ripple.",
+   "quantities": [
+    {
+     "from": 24,
+     "to": 36,
+     "unit": "volts dc"
+    },
+    {
+     "value": 40,
+     "unit": "ma"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "to 60 C"
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "1.58W X 6.625L X 6D inches below panel",
+   "quantities": [
+    {
+     "value": 1.58,
+     "unit": "W"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "lb. net."
+  }
+ ]
+}

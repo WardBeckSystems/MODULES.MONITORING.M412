@@ -13,6 +13,26 @@ Ward-Beck Systems M412, 1969|2. Wiki page: [M412 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 68 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [1 topic](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1969 - M412 - 5.jpg](MANUALS/1969%20-%20M412%20-%205.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Select able** | 2OHZ, 3OHZ, 5OHz, LOOHz 500Hz _ lkHz, SkHz 10kHz 15kHZ, 20kHz |
+| **Output level** | Impedance a) b) c) +8dBm 600 ohms direct +8dBm 600 ohms via switch -60dBm 150 ohms via switch |
+| **Total harmonic distortion** | Less tan 0.2% 20Hz to 20kHz Frequency Accuracy/stability within +5% Amplitude Stability, within +0.2dB for any selected frequency |
+| **Power requirements** | 24 to 36 volts dc unregulated 40 ma less than lv rms ripple. |
+| **Ambient temperature** | to 60 C |
+| **Dimensions** | 1.58W X 6.625L X 6D inches below panel |
+| **Weight** | lb. net. |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
