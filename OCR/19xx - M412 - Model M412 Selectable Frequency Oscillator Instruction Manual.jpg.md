@@ -1,5 +1,5 @@
 # 19xx - M412 - Model M412 Selectable Frequency Oscillator Instruction Manual.jpg
-Wiki page: [M412](../../../../PAGES/M412.md)
+Wiki page: [M412](../)
 
 
 - **Year:** unknown (title block (read by eye))

@@ -1,5 +1,5 @@
 # 1970 - 412-04-001 - OSCILLATOR OUTLINE DRAWING - ISS 1.jpg
-Wiki page: [M412](../../../../PAGES/M412.md)
+Wiki page: [M412](../)
 
 
 - **Year:** 1970 (title block date)

@@ -1,5 +1,5 @@
 # 1970 - 412-02-001 - OSCILLATOR SCHEMATIC - DRN DPS - ISS 5.jpg
-Wiki page: [M412](../../../../PAGES/M412.md)
+Wiki page: [M412](../)
 
 
 - **Year:** 1970 (title block date)

@@ -1,5 +1,5 @@
 # 1972 - 412-03-003 - ESCUTCHEON (M412 A) - DRN DPS - ISS 3.jpg
-Wiki page: [M412](../../../../PAGES/M412.md)
+Wiki page: [M412](../)
 
 
 - **Year:** 1972 (title block date)

@@ -1,5 +1,5 @@
 # 1970 - M412 - M412 OSCILLATOR MODULE LAYOUT - DRN DPS (2).jpg
-Wiki page: [M412](../../../../PAGES/M412.md)
+Wiki page: [M412](../)
 
 
 - **Year:** 1970 (title block date)

@@ -1,5 +1,5 @@
 # 459px-Wbsps_-_module_-_m412_osc_-_back.jpg
-Wiki page: [M412](../../../../PAGES/M412.md)
+Wiki page: [M412](../)
 
 
 - **Year:** unknown (title block (read by eye))

@@ -1,5 +1,5 @@
 # 19xx - 412-03-001 - ESCUTCHEON - ISS 8.jpg
-Wiki page: [M412](../../../../PAGES/M412.md)
+Wiki page: [M412](../)
 
 
 - **Year:** unknown (title block (read by eye))

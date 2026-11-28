@@ -1,5 +1,5 @@
 # 1970 - 412-02-002 - VARIABLE FREQUENCY OSCILLATOR SYSTEM WIRING - DRN DPS - ISS 2 (2).jpg
-Wiki page: [M412](../../../../PAGES/M412.md)
+Wiki page: [M412](../)
 
 
 - **Year:** 1970 (title block date)

@@ -1,5 +1,5 @@
 # 1969 - M412 - Oscillator and M416 I dont know_small.jpg
-Wiki page: [M412](../../../../PAGES/M412.md)
+Wiki page: [M412](../)
 
 
 - **Year:** 1969 (module estimate (labelled))

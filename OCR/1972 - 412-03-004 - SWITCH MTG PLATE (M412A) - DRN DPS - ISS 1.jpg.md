@@ -1,5 +1,5 @@
 # 1972 - 412-03-004 - SWITCH MTG PLATE (M412A) - DRN DPS - ISS 1.jpg
-Wiki page: [M412](../../../../PAGES/M412.md)
+Wiki page: [M412](../)
 
 
 - **Year:** 1972 (title block date)

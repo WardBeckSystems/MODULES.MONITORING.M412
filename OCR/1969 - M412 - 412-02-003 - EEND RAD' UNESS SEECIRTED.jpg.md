@@ -1,5 +1,5 @@
 # 1969 - M412 - 412-02-003 - EEND RAD' UNESS SEECIRTED.jpg
-Wiki page: [M412](../../../../PAGES/M412.md)
+Wiki page: [M412](../)
 
 
 - **Year:** 1969 (module estimate (labelled))

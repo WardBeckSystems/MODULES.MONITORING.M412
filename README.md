@@ -1,6 +1,6 @@
 # M412 Selectable Frequency Oscillator · Monitoring
 
-Ward-Beck Systems M412, 1969|2. Wiki page: [M412 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M412.html)
+Ward-Beck Systems M412, 1969|2. Wiki page: [M412 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M412-Selectable-Frequency-Oscillator/)
 
 | Folder | What is in it | Files |
 |---|---|---|
