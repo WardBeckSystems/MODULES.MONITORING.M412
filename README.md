@@ -4,13 +4,12 @@ Ward-Beck Systems M412, 1969|2. Wiki page: [M412 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 44 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 28 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 4 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 33 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 16 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 43 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 27 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 32 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 15 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 63 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -44,8 +43,6 @@ _Photographs of the module itself: front, back, inside, racked._
 
 Shared privately on Google Drive (opens after sign-in): [1969|2 · wbsps - module - m412 osc - back](https://drive.google.com/file/d/0B0yR0b5T78SKbXhlTXdDRmZSR3M/view?resourcekey=0-w9iJfx2S6i2u4MeUbEfGiA) · [1969|2 · wbsps - promo - m412 osc - front_small](https://drive.google.com/file/d/0B0yR0b5T78SKSFE0UmJxLU9JZGc/view?resourcekey=0-BmAvJxBYhOSPLo9kTGDnZg)
 
-Not on Google Drive yet: `19xx - M412 - M412 (2).jpg`, `459px-Wbsps_-_module_-_m412_osc_-_back.jpg`, `Wbsps_-_module_-_m412_osc_-_back.jpg`, `wbsps - promo - m412 osc - 002.jpg`
-
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
@@ -54,7 +51,13 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYUdlN2s1THAxckU/view?resourcekey=0-WsMRo9jMwQiuQjjYXduCvg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYUdlN2s1THAxckU&resourcekey=0-WsMRo9jMwQiuQjjYXduCvg" width="240" alt="19xx - M412 - DOC - STEREO L SERIES - P009 - B77012-04-011 L.jpg"></a><br><sub>19xx - M412 - DOC - STEREO L SERIES - P009 - B77012-04-011 L · <a href="MECHANICAL/19xx%20-%20M412%20-%20DOC%20-%20STEREO%20L%20SERIES%20-%20P009%20-%20B77012-04-011%20L%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1969 - 412-03-002 - SWITCH MTG. PLATE - ISS 4.jpg`, `1970 - 412-04-001 - OSCILLATOR OUTLINE DRAWING - ISS 1.jpg`, `1972 - 412-03-003 - ESCUTCHEON (M412 A) - DRN DPS - ISS 3.jpg`, `1972 - 412-03-004 - SWITCH MTG PLATE (M412A) - DRN DPS - ISS 1.jpg`, `19xx - 412-03-001 - ESCUTCHEON - ISS 8.jpg`
+## 3-D model
+
+[`MECHANICAL/M412.stl`](MECHANICAL/M412.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M412)
+
+- **Size:** 40.13 × 168.27 mm panel, 152.4 mm deep, 3.2 mm plate (TECHNICAL DATA: 1.58W X 6.625L X 6D inches below panel)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M412 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M412.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -65,13 +68,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQXdCWkpzWFhNcjg/view?resourcekey=0-n9iicI4OpKL4oede1AkE2Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQXdCWkpzWFhNcjg&resourcekey=0-n9iicI4OpKL4oede1AkE2Q" width="240" alt="1969 - M412 - 412-02-003 - EEND RAD' UNESS SEECIRTED.jpg"></a><br><sub>1969|2 · 412-02-003 - EEND RAD' UNESS SEECIRTED · <a href="SCHEMATICS/1969%20-%20M412%20-%20412-02-003%20-%20EEND%20RAD%27%20UNESS%20SEECIRTED%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1970 - 412-02-001 - OSCILLATOR SCHEMATIC - DRN DPS - ISS 5 (2).jpg`, `1970 - 412-02-001 - OSCILLATOR SCHEMATIC - DRN DPS - ISS 5.jpg`, `1970 - 412-02-002 - VARIABLE FREQUENCY OSCILLATOR SYSTEM WIRING - DRN DPS - ISS 2 (2).jpg`, `1970 - 412-02-002 - VARIABLE FREQUENCY OSCILLATOR SYSTEM WIRING - DRN DPS - ISS 2.jpg`, `1970 - M412 - M412 OSCILLATOR MODULE LAYOUT - DRN DPS (2).jpg`, `1970 - M412 - M412 OSCILLATOR MODULE LAYOUT - DRN DPS.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M412 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -99,8 +98,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 
 Shared privately on Google Drive (opens after sign-in): [1969|2 · wbsps - module - m412 osc - front](https://drive.google.com/file/d/0B0yR0b5T78SKN1FDM0ZMRk9aS00/view?resourcekey=0-MtnafdHiAEcVsIg5jvzzqg)
 
-Not on Google Drive yet: `19xx - M412 - Model M412 Selectable Frequency Oscillator Instruction Manual (2).jpg`, `19xx - M412 - Model M412 Selectable Frequency Oscillator Instruction Manual.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -114,7 +111,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1970 - 412-02-002 - VARIABLE FREQUENCY OSCILLATOR SYSTEM WIRING - DRN DPS - ISS 2 (2).kicad_sch](KICAD/1970%20-%20412-02-002%20-%20VARIABLE%20FREQUENCY%20OSCILLATOR%20SYSTEM%20WIRING%20-%20DRN%20DPS%20-%20ISS%202%20(2).kicad_sch)
 - [1970 - 412-02-002 - VARIABLE FREQUENCY OSCILLATOR SYSTEM WIRING - DRN DPS - ISS 2.kicad_sch](KICAD/1970%20-%20412-02-002%20-%20VARIABLE%20FREQUENCY%20OSCILLATOR%20SYSTEM%20WIRING%20-%20DRN%20DPS%20-%20ISS%202.kicad_sch)
 - [M412.kicad_sym](KICAD/M412.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
